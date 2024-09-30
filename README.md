@@ -1,1 +1,1 @@
-# Raylib-lix-template
+# Raylib-linux-template
