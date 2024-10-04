@@ -15,7 +15,7 @@ I_DIR = raylib/include
 LIB_FILE = raylib/lib/libraylib.a
 
 # Specify output binary name
-BINARY = example_program # Give a name for the compiled executible
+BINARY = program # Give a name for the compiled executible
 
 
 # Makefile targets:
@@ -37,4 +37,4 @@ run: compile_&_link
 
 # clear up workspace
 clean:
-	$(RM) *.0 *~ $(BINARY)
+	$(RM) *.o *~ $(BINARY)
