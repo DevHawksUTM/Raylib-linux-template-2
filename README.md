@@ -44,5 +44,5 @@ To do so, edit the `SRC_FILES` & `OBJ_FILES` fields in the Makefile
 
 For your source files, make sure to add the "src/" path. Add these to `SRC_FILES`
 
-Then, add the names of the files again. Without the "src/" path & with the ".o" extension
+Then, add the names of the files again. Without the "src/" path & with the ".o" extension.
 Add these to `OBJ_FILES`
